@@ -1,3 +1,5 @@
 # Covid19-Vaccination-Twitter-Sentiment-Analysis
 
 Anti-vaccination attitudes have been an issue since the development of the first COVID-19 vaccines. The increasing use of social media as a source of health information may contribute to vaccine hesitancy due to anti-vaccination content widely available on social media, including Twitter. So having sentiment analysis over vaccination’s content on Twitter is of great importance. We aimed to implement a sentiment analysis on Twitter topics related to the COVID-19 vaccination. We labeled the available data points and classified the tweets into two positive and negative subgroups. After predicting the overall attitude of the labeled tweets with LSTM, we attempted to categorize the negative tweets and identify the reasons for the hesitancy to receive the COVID-19 vaccine. Based on our findings, most people have a positive attitude towards vaccination. Additionally, we found that LSTM can predict positive or negative sentiment based on the labeled tweets with 88% accuracy.
+
+The data is available on : https://docs.google.com/spreadsheets/d/1Vg28r3OA8_9Vj5zUjmNsige-J_gVMD1I3yCB--JRMpc/edit?usp=sharing
